@@ -5,7 +5,7 @@ Example of it in use.
 To launch, type Python audible_gui.py
 
 <strong>Requirements:</strong>
-  Python
+  Python, (i'm using Python 3.13.0. I don't think it matters too much which version.)
 
 Once Python is installed you also need to install these via command line:
   pip install -r requirements.txt
