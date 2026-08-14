@@ -7,6 +7,5 @@ To launch, type Python audible_gui.py
 <strong>Requirements:</strong>
   Python
 
-  Once Python is installed you also need to install these via command line:
-  pip install requests beautifulsoup4 lxml  
-  python -m pip install requests beautifulsoup4 lxml
+Once Python is installed you also need to install these via command line:
+  pip install -r requirements.txt
